@@ -27,7 +27,7 @@ Se deberá realizar el capstone en el classroom del módulo 14. Asimismo se debe
 
 ## Pasos a seguir
 
-1. Crear un repositorio **público** en GitHub. **<ec2-52-19-16-78.eu-west-1.compute.amazonaws.com>**
+1. Crear un repositorio **público** en GitHub. **[EC2 PUBLIC LINK](ec2-52-19-16-78.eu-west-1.compute.amazonaws.com)**
     - El repositorio deberá inicializarse con el código proporcionado dentro de la carpeta `05-codepipeline-dash` (los siguientes comandos de git pueden ser necesarios `git init`, `git add`, `git commit`, `git push`)
 2. Crear un rol de IAM para el servicio CodeBuild. Asignarle la policy `AmazonS3ReadOnlyAccess`
 3. Crear un rol de IAM para el servivio CodeDeploy (CodeDeploy).
